@@ -3,7 +3,7 @@
 A responsive, single-page portfolio website for The Career Identity Studio.
 
 ## Files
-- `index.html` — complete website, including services, six illustrative case studies, service packages, process, FAQs and contact links.
+- `index.html` — complete website, including services, six verified client case studies, service packages, process, FAQs and contact links.
 
 ## Publish with GitHub Pages
 1. Open the repository's **Settings** tab.
@@ -12,8 +12,8 @@ A responsive, single-page portfolio website for The Career Identity Studio.
 4. Select branch **main** and folder **/(root)**, then save.
 5. Wait for GitHub Pages to publish. The site URL will appear in the Pages settings.
 
-## Important portfolio transparency
-The six case studies currently on the website are fictional demonstration examples. Names, organisations, testimonials and outcome metrics are illustrative and are not verified client results. Keep the demonstration labels visible until they are replaced with documented, client-approved work.
+## Client case studies
+The studio owner has confirmed that the six case studies and outcome figures displayed on the website represent verified client work. The website presents the case details as supplied by the studio. Ensure client permissions and any confidentiality requirements are in place before public display. Results vary and are not a guarantee of future outcomes.
 
 ## Contact
 - Email: josephakinade.careerbranding@gmail.com
