@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190" role="img" aria-labelledby="title">
-<title id="title">Interlocking C and B monogram</title>
-<rect width="240" height="190" fill="none"/>
-<text x="18" y="151" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#242720">C</text>
-<text x="105" y="151" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#A68B5B">B</text>
-<path d="M48 163 L178 28" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square"/>
-<path d="M145 28 H178 V61" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
-<path d="M63 173 L91 145" fill="none" stroke="#242720" stroke-width="5" stroke-linecap="square"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" role="img" aria-labelledby="title desc">
+<title id="title">The Career Identity Studio monogram and wordmark</title>
+<desc id="desc">A bold sage and gold interlocking C and B with an upward diagonal accent, above the name The Career Identity Studio.</desc>
+<rect width="320" height="260" fill="none"/>
+<path d="M58 158 L190 24" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square"/>
+<path d="M157 24 H190 V57" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+<text x="24" y="157" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#777D70">C</text>
+<text x="111" y="157" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#A68B5B">B</text>
+<path d="M74 174 L101 147" fill="none" stroke="#777D70" stroke-width="5" stroke-linecap="square"/>
+<text x="160" y="222" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="21" font-weight="700" letter-spacing="1.1" fill="#242720">THE CAREER IDENTITY STUDIO</text>
 </svg>
