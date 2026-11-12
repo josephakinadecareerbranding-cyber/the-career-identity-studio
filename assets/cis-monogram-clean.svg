@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190" role="img" aria-labelledby="title desc">
+<title id="title">Career Identity Studio CB monogram</title>
+<desc id="desc">A standalone sage-green C and muted-gold B monogram with an upward diagonal accent.</desc>
+<rect width="240" height="190" fill="none"/>
+<path d="M36 151 L190 20" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square"/>
+<path d="M157 20 H190 V53" fill="none" stroke="#A68B5B" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+<text x="18" y="153" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#777D70">C</text>
+<text x="107" y="153" font-family="Georgia, Times New Roman, serif" font-size="166" font-weight="700" fill="#A68B5B">B</text>
+<path d="M58 173 L84 147" fill="none" stroke="#777D70" stroke-width="5" stroke-linecap="square"/>
+</svg>
